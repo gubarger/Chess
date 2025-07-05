@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Skins">
+      <UniqueIdentifier>{e3161dd6-e7d3-4e6a-94de-2a6954de3e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Skins\Karal">
+      <UniqueIdentifier>{5eede97e-993e-4bd9-8f60-e5da2cb13ffc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="ofont.ru_Arial.ttf">
+      <Filter>Исходные файлы</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="16x32\B_Pawn.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_Pawn.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_Queen.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_Rook.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_Knight.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_King.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="W_Bishop.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="B_Rook.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="B_Queen.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="B_Bishop.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="B_King.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="B_Knight.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="Penis_W_King.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\W_Pawn_Hasbik.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\B_Knight_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\W_Bishop_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\W_Knight_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\B_Pawn_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\B_Rook_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\W_Queen_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\W_Rook_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\B_Bishop_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\B_Queen_1Skin.png">
+      <Filter>Исходные файлы\Skins</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_Bishop_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_King_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_Knight_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_Pawn_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_Queen_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\B_Rook_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_Bishop_2Skin.jpg">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_King_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_Knight_2Skin.jpg">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_Pawn_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_Queen_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+    <Image Include="Skins\default2\W_Rook_2Skin.png">
+      <Filter>Исходные файлы\Skins\Karal</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
